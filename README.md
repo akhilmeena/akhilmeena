@@ -1,20 +1,18 @@
-## FayasNoushad
+## Akhil Meena
  
 ```
-Don't Forget to Follow Me 😜
+Follw Follow Me 😜
 ```
+
+<h3 align="left">😌 Something About Me:</h3>
  
-<h3 align="left">😌 More About Me:</h3>
- 
-- 🏷️ My name is Fayas 😎
-- 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
-- 🖥️ Currently Learning Python, HTML etc
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/FayasNoushad?tab=repositories)
+- 🏷️ I'm Akhilesh Kumar Meena 😎
+- 🏘️ I am From Gwalior (Madhyapradesh) , India 🇮🇳 🏜️
+- 🎓 I have studied from Jawahar Navodaya Vidyalaya 💐
+- 🖥️ Currently Learning Python, HTML etc....🍌
 - 🔭 I'm collaborating in more private or public repositories and organizations
-- 🌐 I'm living in Palakkad, Kerala, India 🇮🇳
-- 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) Languages
-- 🎂 I'm born on 30th December in 2005 and I am a 15 years old boy
-- 🗯️ My favourite quote is `Dont judge a book by its cover`
+- 🗣️ I'm know [English](https://google.com/search?q=English), [Hindi](https://google.com/search?q=Hindi) and [Odia](https://google.com/search?q=Odia) Languages
+- 🎂 I'm First cried on 24 Apr 2000
  
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">

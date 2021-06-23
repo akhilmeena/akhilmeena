@@ -1,7 +1,7 @@
 ## Akhil Meena
  
 ```
-Follw Follow Me 😜
+Please Follow Me 😜
 ```
 
 <h3 align="left">😌 Something About Me:</h3>
@@ -108,12 +108,3 @@ Follw Follow Me 😜
     </a>
 </p>
  
-<h3 align="left">💲 Please Donate:</h3>
-<p align="left">
-    <a href="https://paypal.me/FayasNoushad">
-        <img
-            src="https://img.shields.io/badge/PayPal-black?&style=for-the-badge&logo=paypal"
-            alt="PayPal"
-        >
-    </a>
-</p>

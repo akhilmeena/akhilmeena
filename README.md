@@ -62,7 +62,7 @@ Please Follow Me 😜
     </a>
 </p>
  
-<h3 align="left">❤️ My accounts:</h3>
+<h3 align="left">👤 My accounts:</h3>
 <p align="left">
     <a href="https://instagram.com/akhiri.ak">
         <img

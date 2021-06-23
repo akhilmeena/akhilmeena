@@ -81,10 +81,12 @@ Please Follow Me 😜
             src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
             alt="GitHub"
         >
-    <a href="https://telegram.me/FayasNoushad">
+    </a>
+    <a href="https://telegram.me/jai_mahakal_ji">
         <img
             src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
             alt="Telegram"
         >
+    </a>
 </p>
  

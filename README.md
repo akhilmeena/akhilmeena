@@ -12,7 +12,7 @@ Please Follow Me 😜
 <kbd>▪️</kbd> - 🖥️ Currently Learning Python, HTML etc....🍌
 <kbd>▪️</kbd> - 🔭 I'm collaborating in more private or public repositories and organizations
 <kbd>▪️</kbd> - 🗣️ I'm know [English](https://google.com/search?q=English), [Hindi](https://google.com/search?q=Hindi) and [Odia](https://google.com/search?q=Odia) Languages
- - <kbd>▪️</kbd>🎂 I'm First cried on 24 Apr 2000
+<kbd>▪️</kbd>🎂 I'm First cried on 24 Apr 2000
  
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">

@@ -6,7 +6,7 @@ Please Follow Me 😜
 
 <h3 align="left">😌 Something About Me:</h3>
  
-- 🏷️ I'm Akhilesh Kumar Meena 😎
+<kbd>▪️</kbd> - 🏷️ I'm Akhilesh Kumar Meena 😎
 - 🏘️ I am From Gwalior (Madhyapradesh) , India 🇮🇳 🏜️
 - 🎓 I have studied from Jawahar Navodaya Vidyalaya 💐
 - 🖥️ Currently Learning Python, HTML etc....🍌

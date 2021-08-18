@@ -1,6 +1,6 @@
 ## Akhil Meena
 
-[![SVG Typing](https://mdtype.herokuapp.com?vCenter=true&multiline=true&lines=Hello%2C+This+is+Akhile+Meena;Noob+Developer+%E2%9D%A4%EF%B8%8F)](https://mdtype.herokuapp.com)
+[![SVG Typing](https://mdtype.herokuapp.com?lines=Hello%2C+This+is+Akhile+Meena;Noob+Developer+%E2%9D%A4%EF%B8%8F)](https://mdtype.herokuapp.com)
  
 ```
 Please Follow Me 😜

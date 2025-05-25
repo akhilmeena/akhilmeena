@@ -3,7 +3,7 @@
 [![SVG Typing](https://mdtype.herokuapp.com?lines=Hello%2C+This+is+Akhile+Meena;Noob+Developer+%E2%9D%A4%EF%B8%8F)](https://github.com/akhilmeena)
  
 ```
-Please Follow Me 😜
+Please Follow Mes 😜
 ```
 
 <h3 align="left">😌 Something About Me:</h3>

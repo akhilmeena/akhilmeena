@@ -27,7 +27,9 @@ Please Follow Me 😜
 <div align="center">
   <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilmeena&theme=cobalt"/>
   <img src="https://github-readme-stats.vercel.app/api?username=akhilmeena&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilmeena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=cobalt&hide_border=false&order=2" alt="languages graph"  />
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilmeena&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=cobalt&hide_border=false&order=2"
+  alt="languages graph"  />
   <br>
   <img src="https://streak-stats.demolab.com?user=akhilmeena&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
   <br>

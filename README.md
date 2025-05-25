@@ -14,7 +14,7 @@ Please Follow Me 😜
 
 <kbd>▪️</kbd>🎓 I had studied from Jawahar Navodaya Vidyalaya 💐
 
-<kbd>▪️</kbd>🖥️ Currently Learning Python, HTML etc....🍌
+<kbd>▪️</kbd>🖥️ Currently Learning Python, HTML, C++,Dart, CSS, JavaScript etc....🍌
 
 <kbd>▪️</kbd>🔭 I'm collaborating in more private or public repositories and organizations
 

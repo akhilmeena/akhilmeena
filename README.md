@@ -3,7 +3,7 @@
 [![SVG Typing](https://mdtype.herokuapp.com?lines=Hello%2C+This+is+Akhile+Meena;Noob+Developer+%E2%9D%A4%EF%B8%8F)](https://github.com/akhilmeena)
  
 ```
-Please Follow Mes 😜
+Please Follow Me 😜
 ```
 
 <h3 align="left">😌 Something About Me:</h3>
@@ -21,6 +21,25 @@ Please Follow Mes 😜
 <kbd>▪️</kbd>🗣️ I know [English](https://google.com/search?q=English), [Hindi](https://google.com/search?q=Hindi) and [Odia](https://google.com/search?q=Odia) Languages
 
 <kbd>▪️</kbd>🎂 I First cried on 24 Apr 2000
+ 
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Github logo"  /> <img width="12" /> Stats ⚡️
+
+<div align="center">
+
+  <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhilmeena&theme=cobalt"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilmeena&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilmeena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=cobalt&hide_border=false&order=2" alt="languages graph"  />
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=akhilmeena&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
+  <br>
+
+  <img src="https://github-trophies.vercel.app/?username=akhilmeena&theme=cobalt&margin-w=4&margin-h=4&column=4&row=4" />
+</div>
+
+###
  
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">

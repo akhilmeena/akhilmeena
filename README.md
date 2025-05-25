@@ -82,7 +82,7 @@
 
 ---
 
-## ✨ Extras
+## ✨ Extras:
 
 > _“Code, break, fix, repeat. That's how we grow.”_
 
